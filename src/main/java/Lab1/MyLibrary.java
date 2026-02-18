@@ -1,5 +1,5 @@
 package Lab1;
-
+//checking if pushing works.
 public class MyLibrary {
     public static int Power(int Base, int Exponent){
         if (Exponent==1){
